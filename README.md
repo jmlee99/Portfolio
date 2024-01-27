@@ -28,5 +28,7 @@
 > - 핵심역할 : 팀장, 기후 데이터 검정 및 모델 구현 개발
 >> - Language : Python3
 >> - Skill : numpy, pandas, scipy, tensorflow, keras, scikit-learn
-
+>> - Tool : Jupyter Notebook
+>
+> [프로젝트 상세 설명](https://github.com/jmlee99/GBIF/blob/main/README.md)
 <br />
