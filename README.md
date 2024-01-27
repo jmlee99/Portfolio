@@ -4,11 +4,11 @@
 
 <br />
 
-# 👋 Intro
+# 👋 About me
 
 > 반갑습니다! ***"새로움 도전하고, 준비하는 신입 개발자"*** 이재민입니다.
 > <br />
-> 1년간 ***Data*** 관련 경험을 쌓으며 프로젝트를 진행해왔습니다.
+> 대략 1년 동안 ***Data*** 관련 공부와 경험을 쌓으며 프로젝트를 진행해왔습니다.
 > <br />
 > 또한, 여기서 그치지 않고 더욱 성장을 거듭하기 위해 현재 백엔드 역량을 기르기 위해 도전(공부)을 하고있습니다.
 > <br />
@@ -27,8 +27,18 @@
 > - 개발기간 : 2023.08.25 ~ 2023.09.09
 > - 핵심역할 : 팀장, 기후 데이터 검정 및 모델 구현 개발
 >> - Language : Python3
->> - Skill : numpy, pandas, scipy, tensorflow, keras, scikit-learn
+>> - Skill : numpy, pandas, seaborn, scipy, tensorflow, keras, scikit-learn
 >> - Tool : Jupyter Notebook
 >
-> [프로젝트 상세 설명](https://github.com/jmlee99/GBIF/blob/main/README.md)
+> - 🔗 Link 🔗 : [GBIF 해커톤 프로젝트 상세 설명](https://github.com/jmlee99/GBIF/blob/main/README.md)
 <br />
+
+## 2. 🔬 Wafer FDC(Fault Detection & Classification)
+> 반도체 공정 실습에서 Fault Detection & Classification의 고도화의 필요성을 느끼고 진행한 개인 프로젝트
+> - 개발기간 : 2023.06.16 ~ 2023.07.14
+> - 핵심역할 : 개인, CNN을 사용한 반도체 고성능 FDC 개발
+>> - Language : Python3
+>> - Skill : numpy, pandas, seaborn, tensorflow, keras,scikit-learn
+>> - Tool : Jupyter Notebook
+>
+>  -  🔗 Link 🔗 : [웨이퍼 FDC AI 프로젝트 상세 설명](https://github.com/jmlee99/AI_Project)
