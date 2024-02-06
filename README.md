@@ -30,7 +30,7 @@
 >> - Skill : numpy, pandas, seaborn, scipy, tensorflow, keras, scikit-learn
 >> - Tool : Jupyter Notebook
 >
-> - 🔗 Link 🔗 : [GBIF 해커톤 프로젝트 상세 설명](https://github.com/jmlee99/GBIF/blob/main/README.md)
+> - 🔗 Link 🔗 : [GBIF 해커톤 프로젝트 상세 설명](https://github.com/jmlee99/GBIF.git)
 <br />
 
 ## 2. 🔬 Wafer FDC(Fault Detection & Classification)
