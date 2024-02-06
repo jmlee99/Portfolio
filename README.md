@@ -41,4 +41,4 @@
 >> - Skill : numpy, pandas, seaborn, tensorflow, keras,scikit-learn
 >> - Tool : Jupyter Notebook
 >
->  -  🔗 Link 🔗 : [웨이퍼 FDC AI 프로젝트 상세 설명](https://github.com/jmlee99/AI_Project/blob/main/README.md)
+>  -  🔗 Link 🔗 : [웨이퍼 FDC AI 프로젝트 상세 설명](https://github.com/jmlee99/AI_Project.git)
