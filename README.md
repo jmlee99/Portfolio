@@ -14,7 +14,9 @@
 > <br />
 > 프로젝트 내용은 아래를 참조해주세요!
 
+
 <br />
+
 
 # 📝Projects
 다음은 공부와 함께 진행했던 프로젝트들 입니다!
@@ -31,6 +33,7 @@
 >> - Tool : Jupyter Notebook
 >
 > - 🔗 Link 🔗 : [GBIF 해커톤 프로젝트 상세 설명](https://github.com/jmlee99/GBIF.git)
+
 <br />
 
 ## 2. 🔬 Wafer FDC(Fault Detection & Classification)
