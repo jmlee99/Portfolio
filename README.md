@@ -13,7 +13,7 @@
 > - 개발기간 : 2024.06.10 ~ 2024.08.02
 > - 핵심역할 : 팀장, 재무제표 데이터 분석, 시계열 모델링 및 생성형 AI 파이프라인 구축
 >> - Language : Python3
->> - Stacks : numpy, pandas, seaborn, tensorflow, keras, scikit-learn, LLM, ChatGPT-4.0, LangChain,
+>> - Stacks : numpy, pandas, seaborn, tensorflow, keras, scikit-learn, LLM, ChatGPT-4.0, LangChain
 >> - Tool : Jupyter Notebook, Figma, Git, VSCode
 >> - Collaboration : GitHub, Notion, Teams
 >
