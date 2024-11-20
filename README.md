@@ -17,7 +17,7 @@
 >> - Tool : Jupyter Notebook, Figma, Git, VSCode
 >> - Collaboration : GitHub, Notion, Teams
 >
-> - 🔗 Link 🔗 : [GBIF 해커톤 프로젝트 상세 설명](https://github.com/jmlee99/GBIF.git)
+> - 🔗 Link 🔗 : ([재무탐정 프로젝트 상세설명](https://github.com/jmlee99/FINANCIAL-DETECTIVE))
 
 
 ## 2. 🍀 GBIF 데이터 활용 해커톤 - 국립중앙과학관장상(최우수상)
