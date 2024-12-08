@@ -16,6 +16,7 @@
 >> - Stacks : numpy, pandas, seaborn, tensorflow, keras, scikit-learn, LLM, ChatGPT-4.0, LangChain
 >> - Tool : Jupyter Notebook, Figma, Git, VSCode
 >> - Collaboration : GitHub, Notion, Teams
+>> - Contribution : 70%
 >
 > - 🔗 Link 🔗 : ([재무탐정 프로젝트 상세설명](https://github.com/jmlee99/FINANCIAL-DETECTIVE))
 
@@ -27,6 +28,7 @@
 >> - Language : Python3
 >> - Skill : numpy, pandas, seaborn, scipy, tensorflow, keras, scikit-learn
 >> - Tool : Jupyter Notebook
+>> - Contribution : 80%
 >
 > - 🔗 Link 🔗 : [GBIF 해커톤 프로젝트 상세 설명](https://github.com/jmlee99/GBIF.git)
 
@@ -39,5 +41,6 @@
 >> - Language : Python3
 >> - Skill : numpy, pandas, seaborn, tensorflow, keras,scikit-learn
 >> - Tool : Jupyter Notebook
+>> - Contribution : 100%
 >
 >  -  🔗 Link 🔗 : [웨이퍼 FDC AI 프로젝트 상세 설명](https://github.com/jmlee99/AI_Project.git)
